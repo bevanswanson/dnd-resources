@@ -59,7 +59,7 @@
 > - **Barkskin** (2)
 > - **Spider Climb** (2)
 >
-> ***Prepared Spells*** 6 + 3 cantrips
+> ***Prepared Spells*** 8 + 3 cantrips
 >
 > - **Druidcraft** (0)
 > - **Poison Spray** (0)
@@ -67,7 +67,9 @@
 > - **Thunderwave** (1+)
 > - **Healing Word** (1+)
 > - **Cure Wounds** (1)
+> - **Fog Cloud** (1)
 > - **Heat Metal** (2+)
 > - **Pass Without Trace** (2)
 > - **Spike Growth** (2)
->
+> - **Hold Person** (2)
+> 
