@@ -1,4 +1,4 @@
-> ## Gimble Miggledy Glumchirp Poppy Waggletop Townie Wink Clubsnatcher Fargarden
+> ## Gimble Miggledy Glumchirp Poppy Waggletop Tawnie Wink Clubsnatcher Fargarden
 > 
 > *Forest Gnome (Male) / Druid 4*
 > 
