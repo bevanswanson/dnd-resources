@@ -73,3 +73,30 @@
 > - **Spike Growth** (2)
 > - **Hold Person** (2+)
 > 
+> * * * 
+> 
+> ### Inventory
+> 
+> **Equipment**
+>
+> - Leather Armour
+> - Bone Sickle
+> - Sling
+> - Weaving Tools
+> - Common Clothes
+> - Explorer's Pack
+> - Healing Potion
+> - Cloak with *loads* of pockets
+> - Stone shovel/trowel
+> - Bone ring (druidic focus)
+>
+> **Items**
+> 
+> - Sandwiches
+> - Clay pot
+> - Lady Gredj Loyaly Card (3/5)
+> - Peach Wine
+> - Jar of Bees
+> - Kit's Powder Box
+> - Various misc herbs and flowers and oils and woods and vials in all the pockets of the cloak
+> 
