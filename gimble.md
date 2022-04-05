@@ -77,6 +77,8 @@
 > 
 > ### Inventory
 > 
+> 28 Gold
+> 
 > **Equipment**
 >
 > - Leather Armour
@@ -93,6 +95,7 @@
 > **Items**
 > 
 > - Sandwiches
+> - Gemstones (worth ~100 Gold)
 > - Clay pot
 > - Lady Gredj Loyaly Card (3/5)
 > - Peach Wine
