@@ -6,7 +6,7 @@
 > 
 > - **Age** 72 (*Level:* 4)
 > - **Armor Class** 13
-> - **Hit Points** 20
+> - **Hit Points** 27 / 27
 > - **Movement** \- **Walk** 25 ft, **Fly** 0 ft, **Swim** 0 ft
 > 
 > * * *
@@ -19,7 +19,7 @@
 > 
 > ### Description/Background
 > 
-> ***Appearance*** : Small build (not small for a gnome, average for a gnome), with scraggly tawny hair, tied up, a neat pointy beard in the shape of a holly leave, and piercing blue eyes. Various piercings and jewelery made of bone and wood. Leather armour with loads of pockets sewn on.
+> ***Appearance*** : Small build (not small for a gnome, average for a gnome), with scraggly tawny hair, tied up, a neat pointy beard in the shape of a holly leaf, and piercing blue eyes. Various piercings and jewelery made of bone and wood. Leather armour with loads of pockets sewn on.
 > 
 > ***Characteristics*** : Hates bullies and metal.
 > 
