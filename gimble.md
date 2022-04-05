@@ -6,7 +6,7 @@
 > 
 > - **Age** 72 (*Level:* 4)
 > - **Armor Class** 13
-> - **Hit Points** 20
+> - **Hit Points** 27 / 27
 > - **Movement** \- **Walk** 25 ft, **Fly** 0 ft, **Swim** 0 ft
 > 
 > * * *
@@ -19,7 +19,7 @@
 > 
 > ### Description/Background
 > 
-> ***Appearance*** : Small build (not small for a gnome, average for a gnome), with scraggly tawny hair, tied up, a neat pointy beard in the shape of a holly leave, and piercing blue eyes. Various piercings and jewelery made of bone and wood. Leather armour with loads of pockets sewn on.
+> ***Appearance*** : Small build (not small for a gnome, average for a gnome), with scraggly tawny hair, tied up, a neat pointy beard in the shape of a holly leaf, and piercing blue eyes. Various piercings and jewelery made of bone and wood. Leather armour with loads of pockets sewn on.
 > 
 > ***Characteristics*** : Hates bullies and metal.
 > 
@@ -72,4 +72,34 @@
 > - **Pass Without Trace** (2)
 > - **Spike Growth** (2)
 > - **Hold Person** (2+)
+> 
+> * * * 
+> 
+> ### Inventory
+> 
+> 28 Gold
+> 
+> **Equipment**
+>
+> - Leather Armour
+> - Bone Sickle
+> - Sling
+> - Weaving Tools
+> - Common Clothes
+> - Explorer's Pack
+> - Healing Potion
+> - Cloak with *loads* of pockets
+> - Stone shovel/trowel
+> - Bone ring (druidic focus)
+>
+> **Items**
+> 
+> - Sandwiches
+> - Gemstones (worth ~100 Gold)
+> - Clay pot
+> - Lady Gredj Loyaly Card (3/5)
+> - Peach Wine
+> - Jar of Bees
+> - Kit's Powder Box
+> - Various misc herbs and flowers and oils and woods and vials in all the pockets of the cloak
 > 
